@@ -1,0 +1,12 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "service1",
+      "gateway"
+    ],
+    "directoryPath": "../",
+    "monitoring": "elk",
+    "serviceDiscoveryType": "consul",
+    "jwtSecretKey": "3a934e9798be6c316827a62dfa8e0ea1db2c7b3c"
+  }
+}
